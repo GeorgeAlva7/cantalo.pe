@@ -433,6 +433,15 @@ nav div img {
     
     .titulo-mediano{
         font-size: 35px;
+        margin-top: 10%;
+    }
+
+    .cuarto-p{
+        margin-bottom: 7%;
+    }
+
+    .cuarto-img{
+        margin: 25% 0;
     }
 
     .quinto-contenedor-planes{
@@ -447,9 +456,14 @@ nav div img {
 
     .quinto-plan{
         margin-bottom: 0; 
+        align-items: center;
     }
 
     .septimo-img{
         width: 320%;
+    }
+
+    .btn{
+        margin: 0 10%;
     }
 }
